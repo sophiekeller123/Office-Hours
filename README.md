@@ -1,7 +1,7 @@
 # Office-Hours
 This app consolidates all course office hours that a student is enrolled in. It includes the time, place, and instructor for office hours for the student’s courses each day. It is an easy way for students to keep track of all available office hours.
 
-App Name: Office Hours
+App Name: Cornell Office Hours
 
 App Tagline: Get the help you need with this office hour schedule assistant!
 
